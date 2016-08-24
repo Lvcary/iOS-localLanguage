@@ -1,0 +1,17 @@
+/* 
+  Language.strings
+  iOS-localLanguage
+
+  Created by 刘康蕤 on 16/8/24.
+  Copyright © 2016年 刘康蕤. All rights reserved.
+*/
+
+/**
+ *  英文
+ */
+
+"name" = "jobs";
+"language" = "English";
+"changeLanguage" = "change language";
+"chooseLanguage" = "please choose language";
+"cancel" = "cancel";
